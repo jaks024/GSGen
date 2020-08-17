@@ -1,0 +1,2 @@
+# GSGen
+ GUI Static Generator

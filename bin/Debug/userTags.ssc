@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "##HEADER",
+    "cssClasses": "sg-head sg-div sg-span sg-custom",
+    "htmlTag": "div"
+  },
+  {
+    "tag": "##SUBHEAD",
+    "cssClasses": "sg-subhead",
+    "htmlTag": "div"
+  },
+  {
+    "tag": "##SPAN",
+    "cssClasses": "sg-span sg-para",
+    "htmlTag": "span"
+  },
+  {
+    "tag": "##PARA",
+    "cssClasses": "sg-p sg-para",
+    "htmlTag": "p"
+  },
+  {
+    "tag": "##SMALL",
+    "cssClasses": "sg-small",
+    "htmlTag": "div"
+  }
+]
